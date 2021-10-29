@@ -5,8 +5,6 @@
 本项目仅为代码实现，你可以学习从代码到网站上线的过程，请勿用于非法用途
 
 
-<img src="readme_assets/example_screenshot.jpg" height="540" />
-
 ## 使用方法
 
 首先将 `.example.env` 复制一份为 `.env`（其中内容详见文末 # dotenv 中环境变量的说明），将 `config/example.config.json` 复制一份为 `config/config.json` 它们是配置文件（需要修改内容的话可以直接修改它或者通过 API 修改）
